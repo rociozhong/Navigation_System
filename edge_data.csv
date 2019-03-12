@@ -1,0 +1,54 @@
+start,end,distance,name,direction,Type_of_road,color
+Alligator,Ape,1.77,Allape,NE,No_disabled,red
+Ape,Alligator,1.77,Allape,SW,No_disabled,red
+Alligator,Chimpanzee,1.1,Allchi,E,ADA,gray
+Chimpanzee,Alligator,1.1,Allchi,W,ADA,gray
+Alligator,King Cobra,1.01,Allkin,W,ADA,gray
+King Cobra,Alligator,1.01,Allkin,E,ADA,gray
+Andean Bear,Swan,1.24,Andswa,SE,ADA,gray
+Swan,Andean Bear,1.24,Andswa,NW,ADA,gray
+B&B entry,B&B exit,1.04,BB,W,ADA,gray
+B&B exit,Andean Bear,1.24,Bband,SE,ADA,gray
+Ape,Chimpanzee,1.42,Chiape,S,ADA,gray
+Chimpanzee,Ape,1.42,Chiape,N,ADA,gray
+Elephant,Rhino,0.89,Elerhi,S,ADA,gray
+Rhino,Elephant,0.89,Elerhi,N,ADA,gray
+Hippo,Andean Bear,2.02,Hipand,NE,No_disabled,red
+Andean Bear,Hippo,2.02,Hipand,SW,No_disabled,red
+Entrance,Hippo,2.45,Hippo,NW,ADA,gray
+Hippo,Entrance,2.45,Hippo,SE,ADA,gray
+King Cobra,Entrance,1.55,King,S,ADA,gray
+Entrance,King Cobra,1.55,King ,N,ADA,gray
+Lion,Entrance,2.99,Lion,W,ADA,gray
+Entrance,Lion,2.99,Lion,E,ADA,gray
+Snow Leopard,Lion,2.79,Liosno,SW,ADA,gray
+Lion,Snow Leopard,2.79,Liosno,NE,ADA,gray
+Penguin,B&B entry,1.3,Penbb,W,ADA,gray
+Penguin,Polar Bear,1.08,Penpol,E,ADA,gray
+Polar Bear,Penguin,1.08,Penpol,W,ADA,gray
+Penguin,Swan,2.01,Penswa,S,ADA,gray
+Swan,Penguin,2.01,Penswa,N,ADA,gray
+Polar Bear,Flamingo,1.06,Polfla,SE,ADA,gray
+Flamingo,Polar Bear,1.06,Polfla,NW,ADA,gray
+Polar Bear,Red Panda,0.97,Polred,S,ADA,gray
+Red Panda,Polar Bear,0.97,Polred,N,ADA,gray
+Rhino,Andean Bear,1.59,Rhiand,NE,ADA,gray
+Andean Bear,Rhino,1.59,Rhiand,SW,ADA,gray
+Rhino,Hippo,1.07,Rhihip,S,ADA,gray
+Hippo,Rhino,1.07,Rhihip,N,ADA,gray
+Sea lion,Ape,1.63,Seaape,NE,ADA,gray
+Ape,Sea lion,1.63,Seaape,SW,ADA,gray
+Red Panda,Sea lion,0.87,Seared,S,ADA,gray
+Sea lion,Red Panda,0.87,Seared,N,ADA,gray
+Swan,Sea lion,1.59,Seaswa,E,ADA,gray
+Sea lion,Swan,1.59,Seaswa,W,ADA,gray
+Swan,Entrance,2.3,Swan,S,ADA,gray
+Entrance,Swan,2.3,Swan,N,ADA,gray
+Ape,Zebra,1.3,Zebape,E,ADA,gray
+Zebra,Ape,1.3,Zebape,W,ADA,gray
+Zebra,Camal,1.1,Zebcam,E,ADA,gray
+Camal,Zebra,1.1,Zebcam,W,ADA,gray
+Zebra,Lion,2.9,Zeblio,SW,No_disabled,red
+Lion,Zebra,2.9,Zeblio,NE,No_disabled,red
+Zebra,Snow Leopard,1.55,Zebsno,S,ADA,gray
+Snow Leopard,Zebra,1.55,Zebsno,N,ADA,gray

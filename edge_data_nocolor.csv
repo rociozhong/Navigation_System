@@ -1,0 +1,54 @@
+start,end,distance,name,direction,Type_of_road
+Alligator,Ape,1.77,Allape,NE,No_disabled
+Ape,Alligator,1.77,Allape,SW,No_disabled
+Alligator,Chimpanzee,1.1,Allchi,E,ADA
+Chimpanzee,Alligator,1.1,Allchi,W,ADA
+Alligator,King Cobra,1.01,Allkin,W,ADA
+King Cobra,Alligator,1.01,Allkin,E,ADA
+Andean Bear,Swan,1.24,Andswa,SE,ADA
+Swan,Andean Bear,1.24,Andswa,NW,ADA
+B&B entry,B&B exit,1.04,BB,W,ADA
+B&B exit,Andean Bear,1.24,Bband,SE,ADA
+Ape,Chimpanzee,1.42,Chiape,S,ADA
+Chimpanzee,Ape,1.42,Chiape,N,ADA
+Elephant,Rhino,0.89,Elerhi,S,ADA
+Rhino,Elephant,0.89,Elerhi,N,ADA
+Hippo,Andean Bear,2.02,Hipand,NE,No_disabled
+Andean Bear,Hippo,2.02,Hipand,SW,No_disabled
+Entrance,Hippo,2.45,Hippo,NW,ADA
+Hippo,Entrance,2.45,Hippo,SE,ADA
+King Cobra,Entrance,1.55,King,S,ADA
+Entrance,King Cobra,1.55,King ,N,ADA
+Lion,Entrance,2.99,Lion,W,ADA
+Entrance,Lion,2.99,Lion,E,ADA
+Snow Leopard,Lion,2.79,Liosno,SW,ADA
+Lion,Snow Leopard,2.79,Liosno,NE,ADA
+Penguin,B&B entry,1.3,Penbb,W,ADA
+Penguin,Polar Bear,1.08,Penpol,E,ADA
+Polar Bear,Penguin,1.08,Penpol,W,ADA
+Penguin,Swan,2.01,Penswa,S,ADA
+Swan,Penguin,2.01,Penswa,N,ADA
+Polar Bear,Flamingo,1.06,Polfla,SE,ADA
+Flamingo,Polar Bear,1.06,Polfla,NW,ADA
+Polar Bear,Red Panda,0.97,Polred,S,ADA
+Red Panda,Polar Bear,0.97,Polred,N,ADA
+Rhino,Andean Bear,1.59,Rhiand,NE,ADA
+Andean Bear,Rhino,1.59,Rhiand,SW,ADA
+Rhino,Hippo,1.07,Rhihip,S,ADA
+Hippo,Rhino,1.07,Rhihip,N,ADA
+Sea lion,Ape,1.63,Seaape,NE,ADA
+Ape,Sea lion,1.63,Seaape,SW,ADA
+Red Panda,Sea lion,0.87,Seared,S,ADA
+Sea lion,Red Panda,0.87,Seared,N,ADA
+Swan,Sea lion,1.59,Seaswa,E,ADA
+Sea lion,Swan,1.59,Seaswa,W,ADA
+Swan,Entrance,2.3,Swan,S,ADA
+Entrance,Swan,2.3,Swan,N,ADA
+Ape,Zebra,1.3,Zebape,E,ADA
+Zebra,Ape,1.3,Zebape,W,ADA
+Zebra,Camal,1.1,Zebcam,E,ADA
+Camal,Zebra,1.1,Zebcam,W,ADA
+Zebra,Lion,2.9,Zeblio,SW,No_disabled
+Lion,Zebra,2.9,Zeblio,NE,No_disabled
+Zebra,Snow Leopard,1.55,Zebsno,S,ADA
+Snow Leopard,Zebra,1.55,Zebsno,N,ADA
